@@ -11,6 +11,9 @@ This project displays three animated cubes of different sizes rotating simultane
 - **Small Cube**: Uses `@`, `*`, `~`, `#`, `/`, `.`
 
 The cubes rotate around three axes (A, B, C) at different speeds, creating a mesmerizing 3D animation effect in your terminal.
+## demonstration
+
+./demonstratinal-image.png
 
 ## Features
 
