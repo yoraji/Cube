@@ -11,9 +11,12 @@ This project displays three animated cubes of different sizes rotating simultane
 - **Small Cube**: Uses `@`, `*`, `~`, `#`, `/`, `.`
 
 The cubes rotate around three axes (A, B, C) at different speeds, creating a mesmerizing 3D animation effect in your terminal.
-## demonstration
 
-./demonstratinal-image.png
+## Demonstration
+
+![3D Rotating Cubes Demo](demonstratinal-image.png)
+
+*Three cubes rotating in 3D space rendered in ASCII art*
 
 ## Features
 
@@ -72,4 +75,4 @@ Press `Ctrl+C` to exit the animation.
 - **Animation**: Continuous rotation using trigonometric functions
 - **Frame Rate**: ~60 FPS (8ms delay between frames)
 
-The program uses 3D rotation matrices and perspective projection to transform 3D coordinates to 2D screen coordinates, creating the illusion of rotating cubes
+The program uses 3D rotation matrices and perspective projection to transform 3D coordinates to 2D screen coordinates, creating the illusion of rotating cubes in terminal space.
